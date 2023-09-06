@@ -4,3 +4,9 @@
     box-sizing: border-box;
     text-decoration: none;
 }
+
+body {
+    background-color: #70b9ca;
+    color: white;
+    width: 100%;
+}
