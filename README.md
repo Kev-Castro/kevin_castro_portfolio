@@ -31,7 +31,7 @@
 
 - ***Below is an image of the finished site.***
 
-![Alt text](./images/Screenshot%202023-09-06%20210835.png>)
+![Alt text](./assets/screenshot/Screenshot%202023-09-06%20210835.png)
 
 ## License
 
