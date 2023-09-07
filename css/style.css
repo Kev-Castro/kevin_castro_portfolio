@@ -134,3 +134,32 @@ header {
     position: relative;
     top: .5rem;
 }
+
+.round {
+    width: 100%;
+    height: 100%;
+    border-color: white transparent;
+    border-style: solid;
+    border-radius: 50%;
+    border-width: 4px 4px 0 0;
+}
+
+.sections {
+    display: inline;
+    align-items: center;
+    text-align: center;
+    padding: 17px;
+    margin: 50%;
+}
+
+.row {
+    display: flex;
+    justify-content: space-around;
+}
+
+.column {
+    flex: 33.33%;
+    padding: 5px;
+    font-size: large;
+    color: white;
+}
