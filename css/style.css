@@ -10,3 +10,21 @@ body {
     color: white;
     width: 100%;
 }
+
+h1 {
+    font-size: 50px;
+    color: slategray;
+}
+
+h3 {
+    font-size: 32px;
+    margin: 50px;
+    color: slategray;
+}
+
+p {
+    font-size: 20px;
+    line-height: 200%;
+    /* width: 92%; */
+    margin: all 50px;
+}
