@@ -163,3 +163,31 @@ header {
     font-size: large;
     color: white;
 }
+
+.footer {
+    height: 70px;
+    display: flex;
+    justify-content: space-around;
+    color: slategray;
+}
+
+.text {
+    color: white;
+    font-size: large;
+    text-align: center;
+}
+
+.portfolio {
+    padding: 30px;
+}
+
+.imgs {
+    color: white;
+    font-family: 'Times New Roman';
+    font-size: larger;
+    position: relative;
+    left: 0;
+    transition: left .4s, color 2s;
+    justify-content: space-between;
+    padding: 20px;
+}
