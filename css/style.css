@@ -47,3 +47,43 @@ nav {
     align-items: center;
     justify-content: space-between;
 }
+
+.logo h3 {
+    font-size: 1.6rem;
+    color: white;
+}
+
+.nav-links {
+    display: flex;
+    align-items: center;
+    gap: 4rem;
+}
+
+.nav-links a {
+    color: white;
+    font-size: 16px;
+    position: relative;
+    left: 0;
+    transition: left .4s, color 2s;
+    text-decoration: underline;
+    text-underline-offset: 2px;
+}
+
+.nav-links a:hover {
+    color: slategray;
+    left: 5px;
+}
+
+.kc-tag {
+    color: white;
+    font-family: 'Times New Roman';
+    font-size: 35px;
+    position: relative;
+    left: 0;
+    transition: left .4s, color 2s;
+}
+
+.kc-tag:hover {
+    color: slategray;
+    left: 5px;
+}
